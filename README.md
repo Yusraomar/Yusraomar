@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusraomar&label=Profile%20views&color=0e75b6&style=flat" alt="yusraomar" /> </p>
 
-- 🔭 I’m currently working on **building an API from scratch**
+- 🔭 I’m currently working on **my CFG degree and creating many projects within Fullstack**
 
 - 🌱 I’m currently learning **React framework**
 
