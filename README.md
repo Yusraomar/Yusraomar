@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusraomar&label=Profile%20views&color=0e75b6&style=flat" alt="yusraomar" /> </p>
 
-- 🔭 I’m currently working on **my CFG degree in Fullstack Development, which is due to finish in mid December. I will showcase all my projects soon**
+- 🔭 I’m currently working on **my CFG Degree in Fullstack Development, which is due to finish in mid December. I will showcase all my projects soon**
 
 - 🌱 I’m currently learning **React framework**
 
