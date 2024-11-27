@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React framework and creating a travel blog**
 
-- 👯 I’m looking to collaborate on **with anyone :)**
+- 👯 I’m looking to collaborate **with anyone :)**
 
 - 📫 How to reach me **yusraomar19@gmail.com**
 
