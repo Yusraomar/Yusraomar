@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I'm Yusra</h1>
 <h3 align="center">I'm an aspiring Junior Software Developer</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5020&pause=1000&color=8362F7&background=5EFFA200&center=true&vCenter=true&width=435&lines="align-center"Junior+Software+Developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5025&pause=1000&color=A0B2F7&center=true&width=435&lines=Junior+Software+Developer+)](https://git.io/typing-svg)
+
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5020&pause=1000&color=8362F7&background=5EFFA200&width=435&lines=Junior+Software+Developer)](https://git.io/typing-svg)
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusraomar&label=Profile%20views&color=0e75b6&style=flat" alt="yusraomar" /> </p>
 
