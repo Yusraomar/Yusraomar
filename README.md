@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my CFG Degree in Fullstack Development, which is due to finish in mid December. I will showcase all my projects soon**
 
-- 🌱 I’m currently learning **React framework and creating a travel blog**
+- 🌱 I’m currently learning **React framework and AWS**
 
 - 👯 I’m looking to collaborate **with anyone :)**
 
