@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yusra</h1>
 <h3 align="center">I'm an aspiring passionate Frontend/Fullstack Developer</h3>
-[[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8362F7&background=5EFFA200&width=435&lines=Junior+Software+Developer)](https://git.io/typing-svg)](https://readme-typing-svg.demolab.com/demo/?color=8362F7&background=5EFFA200&lines=Junior+Software+Developer)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5020&pause=1000&color=8362F7&background=5EFFA200&width=435&lines=Junior+Software+Developer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusraomar&label=Profile%20views&color=0e75b6&style=flat" alt="yusraomar" /> </p>
 
