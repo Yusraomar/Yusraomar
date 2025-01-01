@@ -13,11 +13,14 @@
 
 - 📫 How to reach me **yusraomar19@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Main Skills:</h3>
 <p align="left">
 </p>
 
 [![My Skills](https://skillicons.dev/icons?i=vite,react,postman,nodejs,express,mysql,js,html,css,ai,ps,git,github,figma,notion,bootstrap)](https://skillicons.dev)
 
+<h3 align="left">Learning:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusraomar&show_icons=true&locale=en" alt="yusraomar" /></p>
