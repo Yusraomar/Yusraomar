@@ -1,5 +1,4 @@
 <h1 align="left">Hi, I'm Yusra</h1>
-<h3 align="left">I'm an aspiring Junior Software Developer</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5137&pause=1000&color=87AAF7&width=435&lines=Junior+Software+Developer)](https://git.io/typing-svg)
 
