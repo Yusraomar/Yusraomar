@@ -17,7 +17,7 @@
 <p align="left">
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite, react, postman, nodejs, express, mysql, js, html, css, ai, ps, git, github, figma, notion, bootstrap)](https://skillicons.dev)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusraomar&show_icons=true&locale=en" alt="yusraomar" /></p>
