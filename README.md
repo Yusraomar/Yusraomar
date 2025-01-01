@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5137&pause=1000&color=87AAF7&width=435&lines=Junior+Software+Developer)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yusraomar&label=Profile%20views&color=0e75b6&style=flat" alt="yusraomar" /> </p>
+<h3 align="left">My Mission:</h3>
 
 - 🔭 I’m working on **my portfolio website**
 
