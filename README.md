@@ -3,13 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5025&pause=1000&color=A0B2F7&center=true&width=435&lines=Junior+Software+Developer+)](https://git.io/typing-svg)
 
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5020&pause=1000&color=8362F7&background=5EFFA200&width=435&lines=Junior+Software+Developer)](https://git.io/typing-svg)
-</div>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusraomar&label=Profile%20views&color=0e75b6&style=flat" alt="yusraomar" /> </p>
 
-- 🔭 I’m currently working on **my CFG Degree in Fullstack Development, which is due to finish in mid December. I will showcase all my projects soon**
+- 🔭 I’m working on **my portfolio website**
 
 - 🌱 I’m currently learning **React framework and AWS**
 
