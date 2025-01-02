@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate with passionate individuals interested in web technologies.
 
-- 📫 Let's connect! You can reach me on LinkedIn or by email https://www.linkedin.com/in/yusra-omar-001796130/  yusraomar19@gmail.com
+- 📫 Let's connect! You can reach me on LinkedIn or by email: https://www.linkedin.com/in/yusra-omar-001796130/  yusraomar19@gmail.com
 
 <h3 align="left">Main Skills:</h3>
 <p align="left">
