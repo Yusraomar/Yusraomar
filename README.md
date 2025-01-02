@@ -4,13 +4,13 @@
 
 <h3 align="left">My Mission:</h3>
 
-- 🔭 I’m working on **my portfolio website**
+- 🔭 I’m currently working on my portfolio website and creating a blog post of my holiday travels.
 
-- 🌱 I’m currently learning **React framework and AWS**
+- 🌱 I’m also learning AWS cloud and hope to get certified as a Cloud Practisioner.
 
-- 👯 I’m looking to collaborate **with anyone :)**
+- 👯 I’m looking to collaborate with passionate individuals interested in web technologies.
 
-- 📫 How to reach me **yusraomar19@gmail.com**
+- 📫 Let's connect you can reach me on Linkedin and email https://www.linkedin.com/in/yusra-omar-001796130/  yusraomar19@gmail.com
 
 <h3 align="left">Main Skills:</h3>
 <p align="left">
