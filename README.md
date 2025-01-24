@@ -4,7 +4,7 @@
 
 <h3 align="left">My Mission:</h3>
 
-- 🔭 I’m currently working on my portfolio website and creating a blog post about my holiday travels.
+- 🔭 I’m currently working on my portfolio website and creating a blog post.
 
 - 🌱 I’m also learning AWS cloud and hope to get certified as a Cloud Practisioner.
 
