@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my portfolio website and creating a blog post.
 
-- 🌱 I’m also learning AWS cloud and hope to get certified as a Cloud Practisioner.
+- 🌱 I’m learning AWS cloud and hope to get certified as a Cloud Practisioner.
 
 - 👯 I’m looking to collaborate with passionate individuals interested in web technologies.
 
